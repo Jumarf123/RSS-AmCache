@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Jumarf123/RSS-AmCache/releases/download/1.0/rss-amcache.exe">
+  <a href="https://github.com/Jumarf123/RSS-AmCache/releases/download/1.1/rss-amcache.exe">
     <img alt="Download RSS-AmCache" src="https://img.shields.io/badge/Скачать%20%2F%20Download-RSS--AmCache.exe-2ea043?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
